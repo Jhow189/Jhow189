@@ -2,7 +2,6 @@ Hello, my name is Johnny, i'm currently studying programming. 💻
 
 - 🎯 I’m currently learning Python, PHP, C#, JavaScript, HTML and CSS.
 - 📧 Contact johnnymendes1@hotmail.com.
-- 📱  My phone number: +55 (11) 99270-5251.
 - ⚡ Always learning new things.
 
 <div>
