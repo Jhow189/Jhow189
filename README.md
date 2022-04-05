@@ -1,4 +1,4 @@
-Hello, my name is Johnny, i'm currently studying programming. 💻
+Hello, my name is Johnny, I'm currently studying programming. 💻
 
 - 🎯 I’m currently learning Python, PHP, C#, JavaScript, HTML and CSS.
 - 📧 Contact johnnymendes1@hotmail.com.
