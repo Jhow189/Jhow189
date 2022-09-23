@@ -1,7 +1,6 @@
 Hello, my name is Johnny, I'm currently studying programming. 💻
 
 - 🎯 I’m currently learning Python, PHP, C#, HTML, CSS, MySql and SQL.
-- 📧 Contact johnnymendes1@hotmail.com.
 - ⚡ Always learning new things.
 
 <div>
