@@ -3,12 +3,12 @@ Hello, my name is Johnny, I'm currently studying programming. 💻
 - 🎯 I’m currently learning Python, PHP, C#, HTML, CSS, MySql and SQL.
 - ⚡ Always learning new things.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=Jhow189&show_icons=true&theme=transparent)
 
 
 <div align="center">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhow189&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow189&layout=compact&theme=dracula"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow189&layout=compact&theme=transparent"/>
 </div>
 
 <div style="display: inline_block"><br>
