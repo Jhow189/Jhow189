@@ -3,7 +3,8 @@ Hello, my name is Johnny, I'm currently studying programming. 💻
 - 🎯 I’m currently learning Python, PHP, C#, HTML, CSS, MySql and SQL.
 - ⚡ Always learning new things.
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhow189&show_icons=true&theme=transparent)
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhow189&show_icons=true&theme=transparent&include_all_commits=true&count_private=true">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow189&layout=compact&theme=transparent">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
