@@ -4,7 +4,7 @@
 
 <div align="left">
   <a href="https://github.com/Jhow189">
-    <img height="" width:"220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow19&layout=compact&langs_count=12&theme=tokyonight&exclude_repo=pandas-notebook,proconsult-mvc,netflix-data" />
+    <img height="" width:"220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhow189&layout=compact&langs_count=12&theme=tokyonight&exclude_repo=pandas-notebook,proconsult-mvc,netflix-data" />
   </a>
 </div>
 
