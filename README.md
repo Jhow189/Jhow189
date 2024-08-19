@@ -1,6 +1,6 @@
   Hello, my name is Johnny, I'm currently studying programming. 💻
 
- 🐍 I’m focused in learn Python and Machine Learning IA.
+ 🐍 I’m focused in learn Python and Machine Learning AI.
 
 <div align="left">
   <a href="https://github.com/Jhow189">
